@@ -11,7 +11,7 @@ Below is the domain Domain of the new comment system that I want to develop.
 
 ![Domain Model](/model.png)
 
-## Description of the Domain Model and it's Invariants
+## Description of the Domain Model and its Invariants
 
 According to the Domain Model, each Site instance will be managed by Site Managers, with their Contact details and could play the Role of either Administrator or Moderator. The Administrator's job, in addition to moderating comments, is to add and remove the site from the Comment System.
 
