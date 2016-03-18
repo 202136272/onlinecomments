@@ -10,7 +10,6 @@ None of the major comments systems have  reputation features that I want.
 Below is the domain Domain of the new comment system that I want to develop.
 
 ![Domain Model](/model.png)
-Format: ![Alt Text](url)
 
 
 ## Description of the Domain Model and it's Invariants
