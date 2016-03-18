@@ -28,6 +28,6 @@ Voting is tracked by the Voter Register to prevent a user from voting twice by k
 IP address on a subject item (Comment or Response) they have voted on. If a voter casts his Up vote,
 the system needs to check whether the voter voted before. If they didn't, the vote is incremented.
 If they did vote, their previous vote is decremented. The User should not cast both the UP and the DOWN vote on one subject.
- If they had an UP vote, and cast a DOWN vote, their UP vote should be decremented. The reverse should be true.
+If they had an UP vote, and cast a DOWN vote, their UP vote should be decremented. The reverse should be true.
 
 
