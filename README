@@ -1,11 +1,11 @@
-#Commenting System Domain Model
+# Commenting System Domain Model
 
 ## Introduction
 Commenting on the Internet has become one of the biggest drivers for user engagement on any website. Any website that wants to increase the time users spend on their website uses a comments system.Comments systems are so important that specialized companies have been formed around them to provide comments as a service. The major ones on the market are DISQUS, MUUT, JETPACK and INTENSEDEBATE.
 
 None of the major comments systems have  reputation features that I want.
 
-##Class Diagram of the Domain Model
+## Class Diagram of the Domain Model
 
 Below is the domain Domain of the new comment system that I want to develop.
 
